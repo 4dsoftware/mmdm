@@ -1,6 +1,6 @@
 # Micro Mutual Dipolar Model (MMDM)
 
-Micro Mutual Dipolar Model is for for rapid and accurate calculation of forces between paramagnetic colloids under magnetic fields. 
+Micro Mutual Dipolar Model is for rapid and accurate calculation of forces between paramagnetic colloids under magnetic fields. 
 
 ![picture1](https://user-images.githubusercontent.com/15344717/34659262-4ea33720-f3fc-11e7-8001-8d42f38be4e4.jpg)
 
