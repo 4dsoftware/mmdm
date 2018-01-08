@@ -6,7 +6,7 @@ Micro Mutual Dipolar Model is for rapid and accurate calculation of forces betwe
 
 ## Instructions
 
-MATLAB and C functions are provided. There is also a MATLAB example to show how to use the function.
+MATLAB functions are provided for MDM (mutual dipolar model) and MMDM (micro-mutual dipolar model). There is also a MATLAB example to show how to use the function.
 
 ## References
 Du, D., Biswal, S.L. Micro-mutual-dipolar model for rapid calculation of forces between paramagnetic colloids. Physical Review E, 2014.
